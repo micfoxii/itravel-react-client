@@ -25,4 +25,4 @@ class UserController < ApplicationController
         erb :failure
       end
     end
-    
+end    
